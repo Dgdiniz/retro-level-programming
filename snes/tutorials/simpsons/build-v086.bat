@@ -1,0 +1,1 @@
+..\..\debuggers\bsnes_v086-source\bsnes\out\laevateinn.exe main.sfc/

@@ -1,0 +1,1 @@
+..\..\debuggers\bsnes-plus\bsnes\out\bsnes.exe main.sfc/main.sfc
